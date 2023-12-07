@@ -1,0 +1,105 @@
+html, body {
+    width: 100%;
+    height: none;
+    margin: 0px;
+    font-size: 18px;
+}
+a:hover {
+    background-color: #ccc;
+    color: black;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+li {
+    display: inline;
+    padding: 1%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.conteiner {
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    width: 98%;
+    height: 170%;
+    background: black;
+}
+.header {
+    height: 6%;
+    width: 100%;
+}
+.main {
+    height: 90%;
+    width: 100%;
+    background: linear-gradient(to bottom right, #4169e1, #6a5acd);
+}
+.footer {
+    height: 4%;
+    width: 100%;
+}
+#logo {
+    float: left;
+    padding-left: 1%;
+    width: 6%;
+    height: 100%;
+}
+#name {
+    width: 69%;
+    padding-left: 1%;
+    height: 100%;
+    float: left;
+}
+#menu {
+    width: 23%;
+    height: 100%;
+    float: left;
+}
+#about {
+    padding-left: 1%;
+    width: 69%;
+    float: left;
+}
+#search {
+    padding-top: 7%;
+    width: 30%;
+    float: left;
+}
+#abse {
+    height: 35%;
+    width: 100%;
+}
+#news {
+    height: 64%;
+    padding-top: 1%;
+    width: 100%;
+}
+#news_1 {
+    width: 31.3%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+#news_2 {
+    width: 31.4%;
+    float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+#news_3 {
+    width: 31.3%;
+    float: right;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+#white {
+    color: white;
+}
+#number {
+    float: left;
+    width: 77%;
+}
